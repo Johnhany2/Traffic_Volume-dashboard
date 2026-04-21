@@ -1,4 +1,4 @@
-# 🚦 Traffic Volume & Incidents Analysis
+#  Traffic Volume & Incidents Analysis
 
 # Overview
 
@@ -44,14 +44,14 @@ Traffic incidents are concentrated in high-density areas and peak hours. Managin
 
 ---
 
-## 📁 Project Files
+##  Project Files
 
 * `traffic_data.csv` – Dataset
 *  Dashboard file
 
 ---
 
-## 🚀 How to Use
+##  How to Use
 
 1. Download the dataset
 2. Open the analysis file (Excel)
@@ -59,7 +59,7 @@ Traffic incidents are concentrated in high-density areas and peak hours. Managin
 
 ---
 
-## 👤 Author
+##  Author
 
 **John Hany**
 
