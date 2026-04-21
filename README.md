@@ -1,19 +1,19 @@
 #  Traffic Volume & Incidents Analysis
 
-# Overview
+## Overview
 
 This project analyzes traffic volume and incident data across different locations and time periods. The goal is to identify patterns, understand risk factors, and provide insights that support data-driven decisions for traffic management and safety improvement.
 
 ---
 
-# Tools & Technologies
+## Tools & Technologies
 
 * **Python** (Pandas, NumPy) – Data cleaning & analysis
 * **Excel** – Data visualization & dashboarding
 
 ---
 
-# Dashboard Features
+## Dashboard Features
 
 * Traffic incidents by **location** (Downtown, Highway, Suburbs)
 * Traffic volume comparison across regions
@@ -23,7 +23,7 @@ This project analyzes traffic volume and incident data across different location
 
 ---
 
-# Key Insights
+## Key Insights
 
 * **Downtown has the highest number of incidents (78)**, followed by Highway (62) and Suburbs (53), indicating that central areas are more prone to traffic issues.
 
@@ -37,7 +37,7 @@ This project analyzes traffic volume and incident data across different location
 
 ---
 
-# Conclusion
+## Conclusion
 
 Traffic incidents are concentrated in high-density areas and peak hours. Managing congestion in downtown regions and improving road safety during evening periods could significantly reduce incident rates.
 
